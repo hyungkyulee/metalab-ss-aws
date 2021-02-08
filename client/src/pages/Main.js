@@ -80,7 +80,7 @@ const Main = () => {
             <option value="Joanna">Joanna</option>
             <option value="Ivy">Ivy</option>
             <option value="Justin">Justin</option>
-            <option value="Seoyeon">조현이</option>
+            <option value="Seoyeon">지니</option>
           </Form.Control>
         </Form.Group>
         <Form.Group controlId="formContent">
